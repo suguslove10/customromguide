@@ -22,5 +22,5 @@ If you already have these:
 6. [**Upload to SourceForge**](https://github.com/AtlanPrime/customromguide/blob/master/steps/SourceforgeUpload.md)
 
 
-With Love, 
-@AtlanPrime
+
+@suguslove10
